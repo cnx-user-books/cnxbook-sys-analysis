@@ -1,0 +1,16 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Miltos Karvounis">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10276</md:content-id>
+    <md:title>Sys Analysis</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License 2.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>dcb2480d-5e78-4615-a2e7-9f65cc6436f3</md:uuid>
+<md:slug>sys-analysis</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Chapter 1- Introduction</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
